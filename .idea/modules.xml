@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/demo-dubbo-nacos/demo-dubbo-nacos.iml" filepath="$PROJECT_DIR$/demo-dubbo-nacos/demo-dubbo-nacos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-dubbo-nacos/demo-dubbo-nacos-ServiceA/demo-dubbo-nacos-ServiceA.iml" filepath="$PROJECT_DIR$/demo-dubbo-nacos/demo-dubbo-nacos-ServiceA/demo-dubbo-nacos-ServiceA.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-dubbo-nacos/demo-dubbo-nacos-ServiceB/demo-dubbo-nacos-ServiceB.iml" filepath="$PROJECT_DIR$/demo-dubbo-nacos/demo-dubbo-nacos-ServiceB/demo-dubbo-nacos-ServiceB.iml" />
+      <module fileurl="file://$PROJECT_DIR$/demo-dubbo-nacos/demo-dubbo-nacos-api/demo-dubbo-nacos-api.iml" filepath="$PROJECT_DIR$/demo-dubbo-nacos/demo-dubbo-nacos-api/demo-dubbo-nacos-api.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/my-nacos.iml" filepath="$PROJECT_DIR$/.idea/my-nacos.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ruyuan-nacos-cmdb/ruyuan-nacos-cmdb.iml" filepath="$PROJECT_DIR$/ruyuan-nacos-cmdb/ruyuan-nacos-cmdb.iml" />
+    </modules>
+  </component>
+</project>
